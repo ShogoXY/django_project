@@ -1,0 +1,2 @@
+# DJANGO PROJECT
+# Learn curve
